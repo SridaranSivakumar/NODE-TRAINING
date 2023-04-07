@@ -1,5 +1,5 @@
 let fs=require("fs");
-const logger = require("../utils/logger");
+const logger = require("../utils/error-logger");
 
 
 const readFile = (req,res) =>  {
